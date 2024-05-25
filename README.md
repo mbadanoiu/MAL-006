@@ -11,6 +11,10 @@ The vendor replied that "Try it is recommended to be disabled in production" and
 This vulnerability requires:
 <br/>
 - Valid user credentials
+<br/>     OR
+- Modify the XML files from a legitimate WSO2 repository
+<br/>     OR
+- Intercept and modify the files sent to the "Try It" tool
 
 ### Proof Of Concept:
 
